@@ -1,0 +1,18 @@
+{
+  "name": "example_express",
+  "version": "1.0.0",
+  "description": "example express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form validation",
+    "contact form"
+  ],
+  "author": "Aleksander Dimitrijevic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
